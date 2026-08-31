@@ -12,3 +12,7 @@ A command-line number guessing game built in Python. This project is part of the
 Ensure you have Python installed, then run:
 ```bash
 python guess.py
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
